@@ -14,7 +14,7 @@
 
 #Database
 firebase.json
-.firebase
+/.firebase
 
 #package hide
 package-lock.json
